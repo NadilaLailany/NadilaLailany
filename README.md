@@ -48,12 +48,9 @@ const nadila = {
 
 ## 📊 github stats
 
-<a href="https://github.com/NadilaLailany">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NadilaLailany&show_icons=true&hide_border=true&count_private=true&bg_color=FFF0F5&title_color=FF85A1&icon_color=FF85A1&text_color=993556&border_radius=15&cache_seconds=1800" />
-</a>
-<a href="https://github.com/NadilaLailany">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadilaLailany&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF85A1&text_color=993556&border_radius=15&cache_seconds=1800&langs_count=6" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NadilaLailany&show_icons=true&hide_border=true&count_private=true&bg_color=FFF0F5&title_color=FF85A1&icon_color=FF85A1&text_color=993556&border_radius=15" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadilaLailany&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF85A1&text_color=993556&border_radius=15&langs_count=6" />
 
 </div>
 
@@ -64,16 +61,6 @@ const nadila = {
 ## 🌸 my contributions
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NadilaLailany&bg_color=fff0f5&color=d4537e&line=ff85a1&point=d4537e&area=true&area_color=ffd6e0&hide_border=true&radius=10" width="90%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 streak
-
-<img src="https://streak-stats.demolab.com/?user=NadilaLailany&hide_border=true&border_radius=15&background=FFF0F5&ring=FF85A1&fire=D4537E&currStreakLabel=FF85A1&sideLabels=993556&dates=993556&currStreakNum=D4537E&sideNums=D4537E&stroke=FF85A1" />
 
 </div>
 
@@ -110,15 +97,21 @@ const nadila = {
 
 <div align="center">
 
+## 👀 visitor count
+
+![](https://komarev.com/ghpvc/?username=NadilaLailany&color=ff85a1&style=for-the-badge&label=profile+views)
+
+</div>
+
+---
+
+<div align="center">
+
 ## 💌 reach me
 
 [![Instagram](https://img.shields.io/badge/Instagram-FF85A1?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nadilalailany)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB3C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadilalailany)
 [![Email](https://img.shields.io/badge/Gmail-FF85A1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadila@email.com)
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=NadilaLailany&color=ff85a1&style=flat-square&label=profile+views)
 
 <br/>
 
