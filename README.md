@@ -1,20 +1,12 @@
 <div align="center">
 
-<!-- Header Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff85a1,ffb3c6,ffd6e0&height=200&section=header&text=Hi%20there!%20I'm%20Nadila%20✨&fontSize=40&fontColor=fff&fontAlignY=38&animation=fadeIn&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet%20🌸&descAlignY=60&descSize=16" width="100%"/>
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=FF85A1&center=true&vCenter=true&width=500&lines=nadia+yang+lagi+belajar+🌸;kadang+bug%2C+kadang+works+🐛;coffee+%2B+code+%3D+bestie+☕;semangat+nadilaa+!!+💪" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&color=FF85A1&center=true&vCenter=true&width=500&lines=ngoding+sambil+dengerin+lagu~;debugging+adalah+seni+🎨;semangat+nadilaa!!+💪;coffee+%2B+code+%3D+bestie+☕" alt="Typing SVG" />
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-## 🐱 me when the code finally works
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhuNm05cnFxazd6b3YyeHY2ZWltdm1qN2VlMDB3N2ZrYTFydnlkNCZlcD12MV9pbnRlcm5hbGdfaWZfaW1hZ2UmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="280" style="border-radius: 20px;" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260" style="border-radius: 20px;" />
 
 > *"the bug was a missing semicolon. i cried."* 🥲
 
@@ -31,11 +23,12 @@
 ```js
 const nadila = {
   name     : "Nadila 🌸",
-  mood     : "always chaotic but make it cute",
+  mood     : "chaotic tapi tetep cute",
   hobbies  : ["ngoding", "debugging sambil nangis", "makan", "tidur"],
-  currentlyLearning : ["web dev ✨", "git biar ga panik", "stack overflow is my bestie"],
-  funFact  : "console.log('kenapa ga jalan') is my personality",
+  learning : ["web dev ✨", "git biar ga panik", "stack overflow is my bestie"],
+  funFact  : "console.log() is literally my bestie",
   quote    : "it works on my machine 🤷‍♀️"
+  // semangat nadila!! you got this 🩷
 }
 ```
 
@@ -55,9 +48,9 @@ const nadila = {
 
 ## 📊 github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nadila&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=ff85a1&icon_color=ffb3c6&text_color=a0566b&border_radius=15" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nadila&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=ff85a1&icon_color=ffb3c6&text_color=a0566b&border_radius=15" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadila&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=ff85a1&text_color=a0566b&border_radius=15" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadila&layout=compact&hide_border=true&bg_color=fff0f5&title_color=ff85a1&text_color=a0566b&border_radius=15" height="160"/>
 
 </div>
 
@@ -79,15 +72,14 @@ const nadila = {
 
 | waktu | kegiatan |
 |---|---|
-| 08.00 ☀️ | buka laptop, semangat ngoding |
-| 09.00 🤔 | ini kenapa error ya |
+| 08.00 ☀️ | buka laptop, semangat ngoding! |
+| 09.00 🤔 | ini kenapa error ya... |
 | 10.00 😤 | KENAPA GA JALAN |
 | 11.00 😭 | udah 2 jam debugging |
-| 12.00 💡 | OH TYPO TERNYATA |
+| 12.00 💡 | oh... typo ternyata 🙃 |
 | 13.00 🍚 | makan dulu cape |
-| 14.00 😴 | ngantuk abis makan |
-| 15.00 ✨ | push ke github, it works!! |
-| 16.00 🎉 | proud of myself bestie |
+| 15.00 ✨ | git push, it works!! |
+| 16.00 🎉 | proud of myself bestie!! |
 
 </div>
 
@@ -107,7 +99,6 @@ const nadila = {
 
 *made with 🩷 and a lot of Stack Overflow*
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff85a1,ffb3c6,ffd6e0&height=120&section=footer" width="100%"/>
 
 </div>
