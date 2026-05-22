@@ -48,9 +48,12 @@ const nadila = {
 
 ## 📊 github stats
 
-<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NadilaLailany&show_icons=true&hide_border=true&count_private=true&bg_color=FFF0F5&title_color=FF85A1&icon_color=FFB3C6&text_color=993556&border_radius=15"/>
-&nbsp;&nbsp;
-<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NadilaLailany&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF85A1&text_color=993556&border_radius=15"/>
+<a href="https://github.com/NadilaLailany">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NadilaLailany&show_icons=true&hide_border=true&count_private=true&bg_color=FFF0F5&title_color=FF85A1&icon_color=FF85A1&text_color=993556&border_radius=15&cache_seconds=1800" />
+</a>
+<a href="https://github.com/NadilaLailany">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadilaLailany&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF85A1&text_color=993556&border_radius=15&cache_seconds=1800&langs_count=6" />
+</a>
 
 </div>
 
@@ -60,7 +63,7 @@ const nadila = {
 
 ## 🌸 my contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NadilaLailany&bg_color=fff0f5&color=d4537e&line=ff85a1&point=ff85a1&area=true&area_color=ffd6e0&hide_border=true&radius=10" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NadilaLailany&bg_color=fff0f5&color=d4537e&line=ff85a1&point=d4537e&area=true&area_color=ffd6e0&hide_border=true&radius=10" width="90%"/>
 
 </div>
 
@@ -70,7 +73,7 @@ const nadila = {
 
 ## 🔥 streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NadilaLailany&hide_border=true&border_radius=15&background=FFF0F5&ring=FF85A1&fire=D4537E&currStreakLabel=FF85A1&sideLabels=993556&dates=993556&currStreakNum=D4537E&sideNums=D4537E" />
+<img src="https://streak-stats.demolab.com/?user=NadilaLailany&hide_border=true&border_radius=15&background=FFF0F5&ring=FF85A1&fire=D4537E&currStreakLabel=FF85A1&sideLabels=993556&dates=993556&currStreakNum=D4537E&sideNums=D4537E&stroke=FF85A1" />
 
 </div>
 
@@ -80,7 +83,7 @@ const nadila = {
 
 ## 🏆 trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=NadilaLailany&theme=radical&no-frame=true&no-bg=false&column=4&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=NadilaLailany&theme=algolia&no-frame=true&column=4&margin-w=8" />
 
 </div>
 
