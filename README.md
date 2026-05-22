@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff85a1,ffb3c6,ffd6e0&height=200&section=header&text=Hi%20there!%20I'm%20Nadila%20✨&fontSize=40&fontColor=fff&fontAlignY=38&animation=fadeIn&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet%20🌸&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF85A1&height=200&section=header&text=Hi%20there!%20I%27m%20Nadila%20%E2%9C%A8&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet%20%F0%9F%8C%B8&descAlignY=60&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&color=FF85A1&center=true&vCenter=true&width=500&lines=ngoding+sambil+dengerin+lagu~;debugging+adalah+seni+🎨;semangat+nadilaa!!+💪;coffee+%2B+code+%3D+bestie+☕" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF85A1&center=true&vCenter=true&width=500&lines=ngoding+sambil+dengerin+lagu+%F0%9F%8E%B5;debugging+adalah+seni+%F0%9F%8E%A8;semangat+nadilaa!!+%F0%9F%92%AA;coffee+%2B+code+%3D+bestie+%E2%98%95" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260" style="border-radius: 20px;" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260" />
 
 > *"the bug was a missing semicolon. i cried."* 🥲
 
@@ -48,9 +48,9 @@ const nadila = {
 
 ## 📊 github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nadila&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=ff85a1&icon_color=ffb3c6&text_color=a0566b&border_radius=15" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NadilaLailany&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=ff85a1&icon_color=ffb3c6&text_color=a0566b&border_radius=15" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadila&layout=compact&hide_border=true&bg_color=fff0f5&title_color=ff85a1&text_color=a0566b&border_radius=15" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadilaLailany&layout=compact&hide_border=true&bg_color=fff0f5&title_color=ff85a1&text_color=a0566b&border_radius=15" height="160"/>
 
 </div>
 
@@ -60,7 +60,7 @@ const nadila = {
 
 ## 🌸 streak
 
-<img src="https://streak-stats.demolab.com?user=nadila&theme=pinkish&hide_border=true&border_radius=15&background=FFF0F5&ring=FF85A1&fire=FFB3C6&currStreakLabel=FF85A1" />
+<img src="https://streak-stats.demolab.com?user=NadilaLailany&theme=pinkish&hide_border=true&border_radius=15&background=FFF0F5&ring=FF85A1&fire=FFB3C6&currStreakLabel=FF85A1" />
 
 </div>
 
@@ -95,10 +95,10 @@ const nadila = {
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=nadila&label=visitors&color=ff85a1&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=NadilaLailany&label=visitors&color=ff85a1&style=flat-square" />
 
 *made with 🩷 and a lot of Stack Overflow*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff85a1,ffb3c6,ffd6e0&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF85A1&height=120&section=footer" width="100%"/>
 
 </div>
