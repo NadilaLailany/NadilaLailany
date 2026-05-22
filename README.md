@@ -48,9 +48,9 @@ const nadila = {
 
 ## 📊 github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=NadilaLailany&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=ff85a1&icon_color=ffb3c6&text_color=a0566b&border_radius=15" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadilaLailany&layout=compact&hide_border=true&bg_color=fff0f5&title_color=ff85a1&text_color=a0566b&border_radius=15" height="160"/>
+<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NadilaLailany&show_icons=true&hide_border=true&count_private=true&bg_color=FFF0F5&title_color=FF85A1&icon_color=FFB3C6&text_color=993556&border_radius=15"/>
+&nbsp;&nbsp;
+<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NadilaLailany&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF85A1&text_color=993556&border_radius=15"/>
 
 </div>
 
@@ -58,9 +58,29 @@ const nadila = {
 
 <div align="center">
 
-## 🌸 streak
+## 🌸 my contributions
 
-<img src="https://streak-stats.demolab.com?user=NadilaLailany&theme=pinkish&hide_border=true&border_radius=15&background=FFF0F5&ring=FF85A1&fire=FFB3C6&currStreakLabel=FF85A1" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NadilaLailany&bg_color=fff0f5&color=d4537e&line=ff85a1&point=ff85a1&area=true&area_color=ffd6e0&hide_border=true&radius=10" width="90%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NadilaLailany&hide_border=true&border_radius=15&background=FFF0F5&ring=FF85A1&fire=D4537E&currStreakLabel=FF85A1&sideLabels=993556&dates=993556&currStreakNum=D4537E&sideNums=D4537E" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=NadilaLailany&theme=radical&no-frame=true&no-bg=false&column=4&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -71,7 +91,7 @@ const nadila = {
 ## 🐛 daily routine as a dev
 
 | waktu | kegiatan |
-|---|---|
+|:---:|:---|
 | 08.00 ☀️ | buka laptop, semangat ngoding! |
 | 09.00 🤔 | ini kenapa error ya... |
 | 10.00 😤 | KENAPA GA JALAN |
@@ -89,13 +109,15 @@ const nadila = {
 
 ## 💌 reach me
 
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nadila)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadila)
-[![Email](https://img.shields.io/badge/email-ff85a1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadila@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-FF85A1?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nadilalailany)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB3C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadilalailany)
+[![Email](https://img.shields.io/badge/Gmail-FF85A1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadila@email.com)
 
----
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=NadilaLailany&label=visitors&color=ff85a1&style=flat-square" />
+![](https://komarev.com/ghpvc/?username=NadilaLailany&color=ff85a1&style=flat-square&label=profile+views)
+
+<br/>
 
 *made with 🩷 and a lot of Stack Overflow*
 
